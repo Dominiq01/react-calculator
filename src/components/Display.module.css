@@ -1,0 +1,31 @@
+.display {
+  min-height: 30%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: right;
+  padding: .2em .5em 0 .5em;
+  color: black;
+  background-color: #fffffffa;
+  word-break: break-all;
+  max-height: min-content;
+  border-radius: 15px 15px 0 0;
+
+}
+
+.prevNumber {
+  font-size: 1.6rem;
+  color: rgb(77, 77, 77);
+}
+
+.mathSign {
+  font-size: 1.4rem;
+  color: rgb(77, 77, 77);
+}
+
+.currentNumber {
+  font-size: 2.6rem;
+}
+
+
